@@ -1,0 +1,23 @@
+📁 hobi/
+    ├── 📄 index.html
+    └── 📁 img/
+        ├── 📁 anime/
+        │   ├── 🖼️ oshi-no-ko.jpg
+        │   ├── 🖼️ detective-conan.jpg
+        │   └── 🖼️ konosuba.jpg
+        │
+        ├── 📁 komik/
+        │   ├── 🖼️ shangrila.jpg
+        │   └── 🖼️ grand-blue.jpg
+        │
+        ├── 📁 novel/
+        │   ├── 🖼️ cote-year-1.jpg
+        │   ├── 🖼️ cote-year-2.jpg
+        │   ├── 🖼️ cote-year-3.jpg
+        │   └── 🖼️ wizard-of-oz.jpg
+        │
+        └── 📁 human/                      ← foto orang favorit (opsional)
+            ├── 🖼️ messi.jpg
+            ├── 🖼️ khabib.jpg
+            ├── 🖼️ max.jpg
+            └── 🖼️ marc.jpg
